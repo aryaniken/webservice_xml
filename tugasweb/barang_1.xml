@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logbarang>
+	<barang>  
+		<kode>M1112</kode>  
+		<satuan>pc</satuan>  
+		<harga>190</harga>  
+		<asal>   
+			<ptasal>bangsa baru</ptasal>   
+			<kodewil1>109</kodewil1>  
+		</asal>  
+		<tujuan>   
+			<pttujuan>maju bersama</pttujuan>   
+			<kodewil2>101</kodewil2>  
+		</tujuan> 
+	</barang>  
+	<barang>  
+		<kode>M1122</kode>  
+		<satuan>pc</satuan>  
+		<harga>1000</harga>  
+		<asal>   
+			<ptasal>pbm</ptasal>   
+			<kodewil1>103</kodewil1>  
+		</asal>  
+		<tujuan>   
+			<pttujuan>mitra kencana</pttujuan>   
+			<kodewil2>300</kodewil2>  
+		</tujuan> 
+	</barang>  
+	<barang>  
+		<kode>T4566</kode>  
+		<satuan>pc</satuan>  
+		<harga>9000</harga>  
+		<asal>   
+			<ptasal>baru bersama</ptasal>   
+			<kodewil1>113</kodewil1>  
+		</asal>  
+		<tujuan>   
+			<pttujuan>lancar jaya</pttujuan>   
+			<kodewil2>800</kodewil2>  
+		</tujuan> 
+	</barang>  
+	<barang>  
+		<kode>O9008</kode>  
+		<satuan>pc</satuan>  
+		<harga>8000</harga>  
+		<asal>   
+			<ptasal>kami bersama</ptasal>   
+			<kodewil1>105</kodewil1>  
+		</asal>  
+		<tujuan>   
+			<pttujuan>mitra baru</pttujuan>   
+			<kodewil2>350</kodewil2>  
+		</tujuan> 
+	</barang>  
+	<barang>  
+		<kode>F1145</kode>  
+		<satuan>pc</satuan>  
+		<harga>5000</harga>  
+		<asal>   
+			<ptasal>sukarasa</ptasal>   
+			<kodewil1>103</kodewil1>  
+		</asal>  
+		<tujuan>   
+			<pttujuan>jalan kencana</pttujuan>   
+			<kodewil2>301</kodewil2>  
+		</tujuan> 
+	</barang>  
+</logbarang>
